@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;700&family=Montserrat:ital,wght@0,200;1,900&display=swap');
+
+* {
+    color: blueviolet;
+    background-color: lightgray;
+    font-family: Comfortaa;
+}
+
+table {
+    border-collapse: collapse;
+   }
+
+   td {
+    width: 10vh;
+    height: 10vh;
+    border: 1px solid black;
+    cursor: pointer;
+
+   }
+
+   table{
+    margin-left: 75vh;
+   }
+
+   p, button{
+
+    margin-left: 85vh;
+   }
